@@ -21,3 +21,14 @@ body {
 .page-title {
 	font-size: 48px;
 }
+
+.text {
+	padding: 20px;
+}
+
+.page-footer {
+	background-color: #9b59b6;
+	height: 50px;
+  	line-height: 50px;
+  	text-align: center;
+}
